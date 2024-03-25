@@ -23,4 +23,4 @@ gdp_dataframe_years, gdp_dataframe_countries = clean_worldbank_data("GDP.csv") #
 forest_dataframe_years, forest_dataframe_countries = clean_worldbank_data("FRST.csv") #Forest Area in KM
 urban_dataframe_years,urban_dataframe_countries = clean_worldbank_data("UrbanPop.csv") #Urban Population per country
 agr_dataframe_years,agr_dataframe_countries = clean_worldbank_data("Ag-land.csv") #agricultural land per country in km
-print(agr_dataframe_years)
+
